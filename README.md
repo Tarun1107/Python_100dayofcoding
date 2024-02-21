@@ -2,3 +2,6 @@ Day-1: This code helps a user to generate a band name based on the inputs provid
 
 Day-2: 2.1 BMI Calculator takes weight(Kgs) and height(m) from user and generates Body mass index of the user and lets the user know the status of their body.
        2.2 Tip Calulator by taking bill amount, tip percentage, number of people.
+
+Day-3: 3.1 Leap year
+       3.2 Treasure Island
