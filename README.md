@@ -5,3 +5,5 @@ Day-2: 2.1 BMI Calculator takes weight(Kgs) and height(m) from user and generate
 
 Day-3: 3.1 Leap year
        3.2 Treasure Island
+
+Day-4: Rock, Paper,and Scissors Game
