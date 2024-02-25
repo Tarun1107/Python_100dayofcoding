@@ -9,3 +9,5 @@ Day-3: 3.1 Leap year
 Day-4: Rock, Paper,and Scissors Game
 
 Day-5: Random Password Generator
+
+Day-7: Hangman Project
